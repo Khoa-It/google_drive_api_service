@@ -1,0 +1,26 @@
+img
+{
+  fieldname: 'file',
+  originalname: 'wp11970324-ubuntu-anime-wallpapers.jpg',
+  encoding: '7bit',
+  mimetype: 'image/jpeg',
+  destination: 'uploads/',
+  filename: 'file-1739889573737.jpg',
+  path: 'uploads/file-1739889573737.jpg',
+  size: 72557
+}
+
+response upload img file
+{
+  kind: 'drive#file',
+  id: '1F1mIBzKjB1KXXaiOhEOIgJqIttGCUCna',
+  name: 'file-1739892390633.jpg',
+  mimeType: 'image/jpeg'
+}
+
+response get file
+{
+  webContentLink: 'https://drive.google.com/uc?id=1QjOmeNMSSlKcOXeMWWgw_6Ww3-MkoVtw&export=download',
+  webViewLink: 'https://drive.google.com/file/d/1QjOmeNMSSlKcOXeMWWgw_6Ww3-MkoVtw/view?usp=drivesdk'
+}
+
